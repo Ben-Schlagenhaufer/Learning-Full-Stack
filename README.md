@@ -1,1 +1,1 @@
-# OdinProject
+# Learning Full Stack
